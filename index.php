@@ -7,6 +7,6 @@
 	<title>Document</title>
 </head>
 <body>
-<p>This is certainly better than <a href="pcuba.at">www.pcuba.at</a></p>
+<p>This Domain is certainly better than <a href="http://www.pcuba.at">pcuba.at</a></p>
 </body>
 </html>
